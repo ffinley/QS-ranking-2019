@@ -1,0 +1,2 @@
+# QS-ranking-2019
+用requests库通过ajax接口抓取了QS官网上2019年的世界大学排名，最终以excel文档形式导出
